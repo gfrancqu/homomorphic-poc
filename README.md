@@ -1,11 +1,11 @@
 # proof of concept of homomorphic cipher using libshe
 
-#compile
+## compile
 ```bash
 make
 ```
 
-#run
+## run
 ```
 ./poc
 ```
